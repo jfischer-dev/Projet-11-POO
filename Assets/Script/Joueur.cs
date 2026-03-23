@@ -23,7 +23,7 @@ public class Joueur : MonoBehaviour
 
     public void prendreDegats()
     {
-        Debug.Log("ayeuh -" + degat);
+        //Debug.Log("ayeuh -" + degat);
     }
 
     public Joueur(int id, int vie, int vitesseCourse)
@@ -35,7 +35,7 @@ public class Joueur : MonoBehaviour
 
     public void equiper(Arme arme)
     {
-        armeEquiper = arme;
+        //armeEquiper = arme;
     }
 
 }

@@ -5,10 +5,6 @@ public class Arme : ItemRamasable, IDamager
 
     }
 
-    // Les propriétés de ma classe
-
-    // Qu'est ce qui caractérise une Arme
-    //Nom, Degat
     private string nom;
     private int degat;
 
